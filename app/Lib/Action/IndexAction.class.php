@@ -3,11 +3,26 @@
 class IndexAction extends Action { 
    //http://localhost/app/Index/
    //http://localhost/app/
+
     public function index(){ 
-        $Data = M('User'); // 实例化Data数据模型
-        $this->data = $Data->select();
-        $this->display();
+	 Load('extend');
+        $Data = M('art'); // 实例化Data数据模型
+		$this->data = $Data->where('stat !=100 and fzclass=1')->order('id')->limit(4)->select();     
+        
+		
+		$menu=M('class');
+		$this->list=$menu->select();
+		
+		 $Data = M('art'); // 实例化Data数据模型
+		 $this->data2 = $Data->where('stat !=100 and fzclass=2')->order('id')->limit(12)->select(); 
+		
+		$this->display();
+		
+		
+		
     }
+	
+	
 	//http://localhost/app/Index/home
 	 public function home(){ 
 	    $Data = M('User'); // 实例化Data数据模型

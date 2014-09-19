@@ -1,0 +1,1469 @@
+[ 2014-09-18T14:57:25+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.041566s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000682s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047926s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013556s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000956s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000771s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016442s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001082s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001141s ]
+
+[ 2014-09-18T15:46:39+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002627s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000417s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:21+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002630s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000589s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:22+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002444s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000419s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:22+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.003054s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000875s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:22+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.003082s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000554s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:22+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002811s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000407s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:22+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002413s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000300s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:23+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002574s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000442s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:23+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.003557s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000692s ]
+ERR: 模板不存在[D:/wamp/www/app/Tpl/Index/index.html]
+
+[ 2014-09-18T15:47:52+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002523s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000317s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018329s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000726s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000672s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000572s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002781s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000763s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2014-09-18T15:47:52+08:00 ] 127.0.0.1 /app/bootstrap/css/bootstrap.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000986s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:bootstrap
+
+[ 2014-09-18T15:47:52+08:00 ] 127.0.0.1 /app/bootstrap/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002877s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003002s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+ERR: 无法加载模块:bootstrap
+
+[ 2014-09-18T15:47:52+08:00 ] 127.0.0.1 /app/bootstrap/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001511s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001424s ]
+ERR: 无法加载模块:bootstrap
+
+[ 2014-09-18T15:48:27+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001835s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002572s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000843s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017385s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017502s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000721s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000678s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000568s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002823s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000742s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2014-09-18T15:48:27+08:00 ] 127.0.0.1 /app/bootstrap/css/bootstrap.min.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000971s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001061s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:bootstrap
+
+[ 2014-09-18T15:48:27+08:00 ] 127.0.0.1 /app/bootstrap/js/jquery.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001270s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001360s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+ERR: 无法加载模块:bootstrap
+
+[ 2014-09-18T15:48:27+08:00 ] 127.0.0.1 /app/bootstrap/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001184s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001295s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:bootstrap
+
+[ 2014-09-18T15:48:50+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `fk_user` [ RunTime:0.002720s ]
+SQL: SELECT * FROM `fk_user`  [ RunTime:0.000426s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010060s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000555s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000523s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000416s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002271s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000802s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2014-09-18T15:50:55+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002733s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.023436s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010961s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000571s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000521s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001128s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003084s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000737s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2014-09-18T16:11:42+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+
+[ 2014-09-18T16:12:19+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002812s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000830s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 49 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019571s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000744s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000669s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002824s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000806s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2014-09-18T16:12:24+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002685s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000804s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 49 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012159s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000619s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000578s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002508s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000822s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2014-09-18T16:12:55+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001839s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002851s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.001093s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: Data D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 49 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018369s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018458s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000552s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000520s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000374s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002412s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000736s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2014-09-18T16:12:58+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002929s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000868s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: Data D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 49 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010858s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000414s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000228s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001579s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000550s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2014-09-18T16:19:19+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002869s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000745s ]
+
+[ 2014-09-18T16:19:22+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003288s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000756s ]
+
+[ 2014-09-18T16:19:22+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002624s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000638s ]
+
+[ 2014-09-18T16:19:23+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002790s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000700s ]
+
+[ 2014-09-18T16:19:23+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002797s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000638s ]
+
+[ 2014-09-18T16:19:23+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002689s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000850s ]
+
+[ 2014-09-18T16:20:09+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002065s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003450s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000848s ]
+
+[ 2014-09-18T16:20:17+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002824s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000694s ]
+
+[ 2014-09-18T16:20:18+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002757s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000719s ]
+
+[ 2014-09-18T16:20:18+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002714s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000844s ]
+
+[ 2014-09-18T16:20:44+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002637s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000693s ]
+
+[ 2014-09-18T16:20:48+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.037896s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.001455s ]
+
+[ 2014-09-18T16:22:53+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002700s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000761s ]
+
+[ 2014-09-18T16:23:06+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002693s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000665s ]
+
+[ 2014-09-18T16:23:29+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002950s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000928s ]
+
+[ 2014-09-18T16:23:38+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002665s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000643s ]
+
+[ 2014-09-18T16:23:57+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003163s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.001291s ]
+
+[ 2014-09-18T16:23:58+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003052s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000954s ]
+
+[ 2014-09-18T16:23:58+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002832s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000716s ]
+
+[ 2014-09-18T16:23:58+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003451s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000829s ]
+
+[ 2014-09-18T16:23:58+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003216s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000834s ]
+
+[ 2014-09-18T16:23:58+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002859s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000866s ]
+
+[ 2014-09-18T16:23:59+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002916s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.000941s ]
+
+[ 2014-09-18T16:23:59+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.008791s ]
+SQL: select id,title,summary,author,dt ,cid,img from sxk_art where stat !=100 and fzclass=1 order by id limit 4 [ RunTime:0.001124s ]
+
+[ 2014-09-18T16:25:11+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001763s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002656s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.018274s ]
+
+[ 2014-09-18T16:25:13+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002717s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.018595s ]
+
+[ 2014-09-18T16:25:13+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002757s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.030359s ]
+
+[ 2014-09-18T16:25:14+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002727s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.015914s ]
+
+[ 2014-09-18T16:25:14+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003054s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.022282s ]
+
+[ 2014-09-18T16:25:14+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002940s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.024089s ]
+
+[ 2014-09-18T16:26:18+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002949s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.020225s ]
+
+[ 2014-09-18T16:26:19+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002687s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.013987s ]
+
+[ 2014-09-18T16:26:19+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002654s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.026298s ]
+
+[ 2014-09-18T16:26:19+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001212s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.011093s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.024685s ]
+
+[ 2014-09-18T16:26:20+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003506s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.020515s ]
+
+[ 2014-09-18T16:26:20+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002760s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.028203s ]
+
+[ 2014-09-18T16:27:34+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002819s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.010425s ]
+
+[ 2014-09-18T16:27:36+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002671s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.028810s ]
+
+[ 2014-09-18T16:27:37+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002729s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.033885s ]
+
+[ 2014-09-18T16:27:37+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002745s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.032086s ]
+
+[ 2014-09-18T16:27:37+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002751s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.018215s ]
+
+[ 2014-09-18T16:27:37+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002798s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.011346s ]
+
+[ 2014-09-18T16:27:38+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003269s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.012934s ]
+
+[ 2014-09-18T16:29:18+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001557s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002807s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.010353s ]
+
+[ 2014-09-18T16:31:04+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002872s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.010526s ]
+
+[ 2014-09-18T16:31:58+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000970s ]
+SQL: SHOW COLUMNS FROM `sxk_user` [ RunTime:0.002799s ]
+ERR: 1146:Table 'huji.sxk_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sxk_user`
+SQL: SELECT * FROM `sxk_user`  [ RunTime:0.000470s ]
+ERR: 1146:Table 'huji.sxk_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `sxk_user` 
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008484s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000557s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000569s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000453s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002445s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000771s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2014-09-18T16:32:00+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `sxk_user` [ RunTime:0.002069s ]
+ERR: 1146:Table 'huji.sxk_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sxk_user`
+SQL: SELECT * FROM `sxk_user`  [ RunTime:0.000314s ]
+ERR: 1146:Table 'huji.sxk_user' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `sxk_user` 
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008627s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000538s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000532s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002313s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000748s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2014-09-18T16:32:19+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002652s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.011644s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008761s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000577s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000525s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002296s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000746s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2014-09-18T16:32:49+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002671s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.014157s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 49 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012022s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000595s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000520s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000414s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002299s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000760s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2014-09-18T16:32:52+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003677s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003786s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.025660s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: list D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 49 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011363s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011442s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000615s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000532s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002333s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000753s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2014-09-18T16:33:34+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002642s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.020479s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011440s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000539s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000444s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000324s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000549s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002024s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000708s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2014-09-18T16:35:24+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003367s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.023068s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012074s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000881s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000612s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000457s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002843s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000757s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2014-09-18T16:35:43+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002818s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.024528s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011168s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000761s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000484s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000328s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000570s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002310s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000649s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2014-09-18T16:36:14+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002767s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.018678s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011581s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000740s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000546s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000421s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002505s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000750s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2014-09-18T16:42:52+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003655s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.029383s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 3: parser error : error parsing attribute name D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     &lt;div class=&quot;active item&quot; /&gt;&lt;/tpl&gt; D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     ^ D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 3: parser error : attributes construct error D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     &lt;div class=&quot;active item&quot; /&gt;&lt;/tpl&gt; D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     ^ D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 3: parser error : Couldn't find end of Start Tag tag line 1 D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     &lt;div class=&quot;active item&quot; /&gt;&lt;/tpl&gt; D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+NOTIC: [2] simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:     ^ D:\wamp\www\ThinkPHP\Lib\Template\TagLib.class.php 第 84 行.
+ERR: XML标签语法错误 : name="data" id="vo" offset="1" length='1'
+  
+    <div class="active item"
+
+[ 2014-09-18T16:43:12+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003114s ]
+SQL: SELECT * FROM `sxk_art`  [ RunTime:0.016650s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015562s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000638s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000587s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000444s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003578s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000830s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2014-09-18T16:56:29+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003272s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.002590s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016998s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000872s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000762s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000637s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004056s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001149s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001231s ]
+
+[ 2014-09-18T16:56:31+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002944s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001506s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012575s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012671s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000587s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000521s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002294s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000739s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2014-09-18T17:02:03+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001353s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003344s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001751s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013305s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013383s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000602s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000523s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000419s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002316s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000736s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2014-09-18T17:04:33+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002736s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001930s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013401s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000526s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000449s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000333s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002080s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000733s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.002960s ]
+SQL: SELECT * FROM `sxk_class` WHERE ( stat =01 ) ORDER BY id  [ RunTime:0.013382s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005865s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.020201s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000108s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000051s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000011s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.024058s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000040s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.023648s ]
+
+[ 2014-09-18T17:05:07+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001986s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002712s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001567s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013744s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000601s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000526s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000414s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002319s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000741s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000799s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.002912s ]
+SQL: SELECT * FROM `sxk_class` WHERE ( stat =01 ) ORDER BY id  [ RunTime:0.000829s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006007s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007870s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000115s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000051s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000012s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011630s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000040s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.011230s ]
+
+[ 2014-09-18T17:05:10+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002869s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001722s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014479s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000764s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000737s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000426s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002739s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000736s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000796s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.002835s ]
+SQL: SELECT * FROM `sxk_class` WHERE ( stat =01 ) ORDER BY id  [ RunTime:0.000542s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005853s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007835s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000106s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000049s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000012s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000082s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011020s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000040s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.010612s ]
+
+[ 2014-09-18T17:05:47+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003028s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001629s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012949s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000477s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000359s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000305s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001926s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000745s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.003008s ]
+SQL: SELECT * FROM `sxk_class` WHERE ( stat=01 ) ORDER BY id  [ RunTime:0.000780s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006047s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007539s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000108s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000049s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000012s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011738s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000039s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.011318s ]
+
+[ 2014-09-18T17:06:41+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002927s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001783s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013985s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000743s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000666s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002693s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000749s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000810s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.002688s ]
+SQL: SELECT * FROM `sxk_class` WHERE ( stat=01 ) ORDER BY id  [ RunTime:0.000498s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005932s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007625s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000112s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000050s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000011s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000080s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.010936s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000038s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.010510s ]
+
+[ 2014-09-18T17:22:03+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003022s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.002141s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013286s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000528s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000444s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000337s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002077s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000673s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.002875s ]
+SQL: SELECT * FROM `sxk_class`  [ RunTime:0.000462s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006084s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007031s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000115s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000051s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000011s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011124s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000042s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.010801s ]
+
+[ 2014-09-18T17:25:10+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003087s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001601s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013503s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000597s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000521s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000412s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002303s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000732s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2014-09-18T17:25:27+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003050s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001517s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013058s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000509s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000446s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000320s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002030s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000636s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.002698s ]
+SQL: SELECT * FROM `sxk_class`  [ RunTime:0.000306s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005773s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006577s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000119s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000051s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000012s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.010402s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000040s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.010134s ]
+
+[ 2014-09-18T17:25:30+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.003156s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.002349s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013092s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000415s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000253s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001774s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000686s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.003357s ]
+SQL: SELECT * FROM `sxk_class`  [ RunTime:0.000909s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006755s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007898s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000106s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000051s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000011s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.012955s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000039s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.012538s ]
+
+[ 2014-09-18T17:25:30+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002856s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.002097s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014921s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000698s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000677s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002902s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001119s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001222s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.003506s ]
+SQL: SELECT * FROM `sxk_class`  [ RunTime:0.000325s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005796s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008929s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000103s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000050s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000011s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.011890s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000064s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.011031s ]
+
+[ 2014-09-18T17:25:30+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002740s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001769s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012551s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000472s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000350s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000234s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001707s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `sxk_class` [ RunTime:0.003595s ]
+SQL: SELECT * FROM `sxk_class`  [ RunTime:0.001105s ]
+NOTIC: [8] Constant THEME_NAME already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 221 行.
+NOTIC: [8] Constant THEME_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 172 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined D:\wamp\www\ThinkPHP\Lib\Core\View.class.php 第 173 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 53 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 54 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: img D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 56 行.
+NOTIC: [8] Undefined index: title D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+NOTIC: [8] Undefined index: summary D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 57 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006400s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008246s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000119s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000052s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000012s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.013037s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000040s ]
+INFO: [ view_end ] --END-- [ RunTime:-0.012753s ]
+
+[ 2014-09-18T17:29:46+08:00 ] 127.0.0.1 /app/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `sxk_art` [ RunTime:0.002737s ]
+SQL: SELECT * FROM `sxk_art` WHERE ( stat !=100 and fzclass=1 ) ORDER BY id LIMIT 4   [ RunTime:0.001663s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: menu D:\wamp\www\app\Runtime\Cache\0cab370dc533ba97c84fcaf918d89176.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013024s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000517s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000475s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000356s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002096s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001242s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001330s ]
+
