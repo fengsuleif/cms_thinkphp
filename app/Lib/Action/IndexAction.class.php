@@ -16,19 +16,28 @@ class IndexAction extends Action {
 		 $Data = M('art'); // 实例化Data数据模型
 		 $this->data2 = $Data->where('stat !=100 and fzclass=2')->order('id')->limit(12)->select(); 
 		
-		$this->display();
-		
-		
+		$this->display();	
 		
     }
 	
+	
+	public function nlist(){
+	$Data = M('art'); // 实例化Data数据对象
+    import('ORG.Util.Page');// 导入分页类
+    $count      = $Data->where($map)->count();// 查询满足要求的总记录数 $map表示查询条件
+    $Page       = new Page($count,18);// 实例化分页类 传入总记录数
+    $show       = $Page->show();// 分页显示输出
+    // 进行分页数据查询
+    $listpage = $Data->where($map)->order('id')->limit($Page->firstRow.','.$Page->listRows)->select();
+    $this->assign('list',$listpage);// 赋值数据集
+    $this->assign('page',$show);// 赋值分页输出
+	$this->display();
+	}
 	
 	//http://localhost/app/Index/home
-	 public function home(){ 
-	    $Data = M('User'); // 实例化Data数据模型
-        $this->data = $Data->select();
-        $this->display();
-    }
+	 //public function showview(){ 
+		
+   // }
 	//http://localhost/app/Index/bbs
 	 public function bbs(){ 
 	     $Data = M('User'); // 实例化Data数据模型
